@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Onlineretail/static/js/main.f6bff42b.js",
+    "main.js": "/Onlineretail/static/js/main.97f9a7dc.js",
     "index.html": "/Onlineretail/index.html",
-    "main.f6bff42b.js.map": "/Onlineretail/static/js/main.f6bff42b.js.map"
+    "main.97f9a7dc.js.map": "/Onlineretail/static/js/main.97f9a7dc.js.map"
   },
   "entrypoints": [
-    "static/js/main.f6bff42b.js"
+    "static/js/main.97f9a7dc.js"
   ]
 }
